@@ -14,12 +14,12 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* header style + h1 style*/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* header style + h1 + .seo style*/
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -31,7 +31,7 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* navigation unordered list style*/
 header nav ul {
     list-style-type: none;
 }
